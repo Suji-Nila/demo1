@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-18T12:31:32 IST" name="Default suite" finished-at="2023-05-18T12:31:34 IST" duration-ms="1608">
+    <groups>
+    </groups>
+    <test started-at="2023-05-18T12:31:32 IST" name="Default test" finished-at="2023-05-18T12:31:34 IST" duration-ms="1608">
+      <class name="APITesting.RESTAssured.Question5">
+        <test-method signature="test_patchUser()[pri:0, instance:APITesting.RESTAssured.Question5@2c1b194a]" started-at="2023-05-18T12:31:32 IST" name="test_patchUser" finished-at="2023-05-18T12:31:34 IST" duration-ms="1588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_patchUser -->
+      </class> <!-- APITesting.RESTAssured.Question5 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
